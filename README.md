@@ -36,7 +36,7 @@ To run this project, you'll need Python installed on your system along with `pip
 1. Clone the repository to your local machine.
    
    ```bash
-   git clone https://github.com/NaveenKumarDongre/PythonAutomation-API_Testing-.git
+   git clone https://github.com/NaveenKumarDongre/PythonAutomation-API_Testing.git
    ```
 
 2. Navigate to the project directory.
