@@ -36,7 +36,7 @@ To run this project, you'll need Python installed on your system along with `pip
 1. Clone the repository to your local machine.
    
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/NaveenKumarDongre/PythonAutomation-API_Testing-.git
    ```
 
 2. Navigate to the project directory.
@@ -90,7 +90,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - Thanks to the [Swagger PetStore API](https://petstore.swagger.io/#/) for providing a great platform to test REST APIs.
 - This project is a part of my learning journey to master test automation frameworks.
-
----
-
-You can copy this `README.md` content into your project to provide a comprehensive overview of your API testing framework using Pytest. Make sure to replace placeholders like `yourusername` and `yourrepository` with your actual GitHub username and repository name.
